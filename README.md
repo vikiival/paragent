@@ -1,6 +1,9 @@
-# Onchain Agent
+# Paragent
 
-An AI-powered blockchain agent that can interact with the Abstract Testnet blockchain. Built with OpenAI's Assistant API and Polkadot-js.
+An AI-powered blockchain agent that can interact with the Polkadot Parachains.
+Built with OpenAI's Assistant API and Polkadot-js.
+
+![Image](https://github.com/user-attachments/assets/2b9227f6-8779-4461-af62-9052f4d386e5)
 
 ## Features
 
@@ -9,6 +12,7 @@ An AI-powered blockchain agent that can interact with the Abstract Testnet block
 - Support for:
   - Teleportation
   - Balance checking
+  - Swapping (coming soon!)
 
 ## Prerequisites
 
@@ -22,7 +26,7 @@ An AI-powered blockchain agent that can interact with the Abstract Testnet block
 1. [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) the repository:
 
 ```bash
-cd onchain-agent
+cd paragent
 ```
 
 2. Install dependencies:
